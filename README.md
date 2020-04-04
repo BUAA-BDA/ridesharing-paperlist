@@ -94,13 +94,13 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Route Planning I: Cost Minimization
 
-0. **A Unified Approach to Route Planning for Shared Mobility**
+1. **A Unified Approach to Route Planning for Shared Mobility**
 *Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu.* PVLDB, 2018. [paper](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf) [code](https://github.com/BUAA-BDA/ridesharing-GreedyDP)
 
-0. **Last-Mile Delivery Made Practical: An Efficient Route Planning Framework with Theoretical Guarantees**
+2. **Last-Mile Delivery Made Practical: An Efficient Route Planning Framework with Theoretical Guarantees**
 *Yuxiang Zeng, Yongxin Tong, Lei Chen.* PVLDB, 2019. [paper](http://www.vldb.org/pvldb/vol13/p320-zeng.pdf) [code](https://github.com/BUAA-BDA/ridesharing-LMD)
 
-1. **Advanced dial-a-ride algorithms**
+3. **Advanced dial-a-ride algorithms**
 *Nigel Henry Wilson, R. W. Weissberg, B. Higonnet, John Hauser.* Technical report, 1975.
 
 2. **T-share: a large-scale dynamic taxi ridesharing service**
@@ -189,7 +189,7 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Route Planning II: Revenue Maximization
 
-0. **A Unified Approach to Route Planning for Shared Mobility**
+1. **A Unified Approach to Route Planning for Shared Mobility**
 *Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu.* PVLDB, 2018. [paper](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf) [code](https://github.com/BUAA-BDA/ridesharing-GreedyDP)
 
 1. **Revenue Maximization in Online Dial-A-Ride**
@@ -215,7 +215,7 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Route Planning III: #Served-Request Maximization
 
-0. **A Unified Approach to Route Planning for Shared Mobility**
+1. **A Unified Approach to Route Planning for Shared Mobility**
 *Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu.* PVLDB, 2018. [paper](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf) [code](https://github.com/BUAA-BDA/ridesharing-GreedyDP)
 
 1. **Designing an on-line ride-sharing system**
