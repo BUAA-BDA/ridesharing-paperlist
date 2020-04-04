@@ -666,7 +666,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Patent
 
-1. **System, method, and program for managing vehicle ride-sharing **
+1. **System, method, and program for managing vehicle ride-sharing**
 *Takashi Naito.* Worldwide applications, 2008. [patent](https://patents.google.com/patent/JP2010067061A/en?q=Method&q=system&q=ridesharing&q=management&oq=Method+and+system+for+ridesharing+management)
 
 1. **Systems and Methods for Vehicle Ridesharing Management**
